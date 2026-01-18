@@ -5,12 +5,10 @@ I'm Max and currently 19 years old.
 
 This is my personal and school account.
 
-School programming group: [LoMaTiInformatik](https://github.com/LoMaTiInformatik/)
-
 ### Languages
 
 - German  | (native)
-- English | (C2)
+- English | (C1)
 
 ## Projects
 

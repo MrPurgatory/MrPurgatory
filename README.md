@@ -3,7 +3,7 @@ Hello there.
 
 I'm Max and currently 19 years old.
 
-This is my personal and school account.
+This is my personal account.
 
 ### Languages
 

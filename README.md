@@ -13,7 +13,7 @@ This is my personal account.
 ## Projects
 
 ### Currently working on
-- Private discord bot project
+None
 
 ### Finished
 - [Turning a common boxfan into a smart home fan](https://github.com/LoMaTiInformatik/Smarthome_Ventilator/)
